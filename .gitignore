@@ -3,7 +3,6 @@ scripts/contributors.js
 .DS_Store
 .idea/
 .vs
-.env
 
 *.rsuser
 *.suo
@@ -11,3 +10,5 @@ scripts/contributors.js
 *.userosscache
 *.sln.docstates
 *.swp
+config.bat
+node_modules
